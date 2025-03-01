@@ -42,7 +42,7 @@ Follow these steps to set up Ollama-webui-lite:
 3. Run the application in development mode:
 
    ```bash
-   npm run dev
+   npm run dev -- --port=8000
    ```
 
    Ollama Web UI Lite now should be available at http://localhost:3000
